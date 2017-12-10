@@ -4,7 +4,7 @@ email:       anujmenta@gmail.com
 author:      Anuj Menta
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://uttarjeevi.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
