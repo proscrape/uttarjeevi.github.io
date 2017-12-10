@@ -3,7 +3,7 @@ layout:     post
 title:      First post !
 date:       2017-12-10
 summary:    My first blog post yay!
-categories: first
+categories: firstpost
 ---
 
 So this is it! My first blog ^_^
@@ -15,4 +15,5 @@ I always loved writing. I never wrote about anything in particular, but I liked 
 But now, I'm going to write articles HERE. They would be simple incidents/thoughts from my daily life which I'd love to share :)
 
 Love
+
 Anuj
